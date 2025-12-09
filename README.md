@@ -32,7 +32,7 @@
 <h2 align="left">Contatos</h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/luan-m-26b8342bb">
+  <a href="https://www.linkedin.com/in/luan-m-26b8342bb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/luanmoura_07">
