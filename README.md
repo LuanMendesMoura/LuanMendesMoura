@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="left">👋 Seja muito bem-vindo ao meu perfil!</h1>
 
-<!--
-**LuanMendesMoura/LuanMendesMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Meu nome é Luan Mendes Moura, e sou um desenvolvedor full stack em formação!</p>
 
-Here are some ideas to get you started:
+<h2 align="left">Sobre Mim</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">📚 No momento estou estudando em: <br> 
+<ol>
+  <li>Técnico em Desenvolvimento de Sistemas (<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>)</li>
+</ol>
+</p>
+
+### 💻 Tecnologias e linguagens 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=symfony,nodejs,angular,mysql,flutter)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux)](https://skillicons.dev)
+
+<h2>Contatos</h2>
+
+<a href="www.linkedin.com/in/luan-m-26b8342bb">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+</a>
+<a href="[https://www.instagram.com/rhyan.sans/](https://www.instagram.com/luanmoura_07/)](https://www.instagram.com/luanmoura_07/)">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
+</a>
+<a href="mailto:luanmendesmoura091207@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" height="30" alt="Email"/>
+</a>
