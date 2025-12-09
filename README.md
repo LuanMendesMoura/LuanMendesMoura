@@ -11,8 +11,6 @@
 - 🖥️ Técnico em Desenvolvimento de Sistemas pelo <a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>
 - 🌍 Explorando sempre novas tecnologias.
 
----
-
 <h2 align="left">💻 Tecnologias e linguagens </h2>
 
 ###
