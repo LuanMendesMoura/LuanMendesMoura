@@ -6,30 +6,24 @@
 
 ###
 
-## Sobre mim
+<h2 align="left">Sobre Mim</h2>
 
-### 🖥️ Técnico em Desenvolvimento de Sistemas pelo <a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>
-### 🌍 Explorando sempre novas tecnologias.
+- 🖥️ Técnico em Desenvolvimento de Sistemas pelo <a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>
+- 🌍 Explorando sempre novas tecnologias.
 
 ###
 
-### 💻 Tecnologias e linguagens 
+#### 💻 Tecnologias e linguagens 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python)](https://skillicons.dev)
 
-###
-
-### 🚀 Frameworks e bibliotecas
+#### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=symfony,nodejs,flutter)](https://skillicons.dev)
 
-###
-
-### 🛠️ Ferramentas de desenvolvimento
+#### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,mysql,linux)](https://skillicons.dev)
 
-###
-
-<h2>Contatos</h2>
+<h2 align="left">Contatos</h2>
 
 <p align="left">
   <a href="www.linkedin.com/in/luan-m-26b8342bb">
