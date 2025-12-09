@@ -11,16 +11,24 @@
 - 🖥️ Técnico em Desenvolvimento de Sistemas pelo <a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>
 - 🌍 Explorando sempre novas tecnologias.
 
-###
+---
 
-#### 💻 Tecnologias e linguagens 
+<h2 align="left">💻 Tecnologias e linguagens </h2>
+
+###
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python)](https://skillicons.dev)
 
-#### 🚀 Frameworks e bibliotecas
+<h2 align="left">🚀 Frameworks e bibliotecas</h2>
+
+###
+
 [![My Skills](https://skillicons.dev/icons?i=symfony,nodejs,flutter)](https://skillicons.dev)
 
-#### 🛠️ Ferramentas de desenvolvimento
+<h2 align="left">🛠️ Ferramentas de desenvolvimento</h2>
+
+### 
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,mysql,linux)](https://skillicons.dev)
 
 <h2 align="left">Contatos</h2>
