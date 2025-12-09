@@ -35,7 +35,7 @@
   <a href="www.linkedin.com/in/luan-m-26b8342bb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
-  <a href="[https://www.instagram.com/rhyan.sans/](https://www.instagram.com/luanmoura_07/)](https://www.instagram.com/luanmoura_07/)">
+  <a href="https://www.instagram.com/luanmoura_07">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
   </a>
   <a href="mailto:luanmendesmoura091207@gmail.com">
