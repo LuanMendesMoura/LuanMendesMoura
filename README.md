@@ -1,14 +1,17 @@
 <h1 align="left">👋 Seja muito bem-vindo ao meu perfil!</h1>
 
+###
+
 <p align="left">Meu nome é Luan Mendes Moura, e sou um desenvolvedor full stack em formação!</p>
 
-<h2 align="left">Sobre Mim</h2>
+###
 
-<p align="left">📚 No momento estou estudando em: <br> 
-<ol>
-  <li>Técnico em Desenvolvimento de Sistemas (<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>)</li>
-</ol>
-</p>
+## Sobre mim
+
+- 🖥️ Técnico em Desenvolvimento de Sistemas pelo <a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>
+- 🌍 Explorando sempre novas tecnologias.
+
+###
 
 ### 💻 Tecnologias e linguagens 
 
@@ -19,6 +22,8 @@
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux)](https://skillicons.dev)
+
+###
 
 <h2>Contatos</h2>
 
